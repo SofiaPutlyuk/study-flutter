@@ -7,3 +7,4 @@ Day 5: Repeat past topics (variables  and list dart)
 Day 6 : Learn state menegment
 Day 7: Learn structure of project futter
 Day 8 : Repeat all topics 
+Day 9 : Study new topic
