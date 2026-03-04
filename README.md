@@ -8,3 +8,4 @@ Day 6 : Learn state menegment
 Day 7: Learn structure of project futter
 Day 8 : Repeat all topics 
 Day 9 : Study new topic
+Day 10 : Repeat new topic
