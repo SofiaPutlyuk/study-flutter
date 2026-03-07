@@ -11,3 +11,4 @@ Day 9 : Study new topic
 Day 10 : Repeat new topic
 Day 11 : finish new topic
 Day 12 ; Study new topic
+Day 13: Repeat new topic
