@@ -15,3 +15,4 @@ Day 13: Repeat new topic
 Day 14 : Continue study topic
 Day 15: Practice
 Day 16 : finish topic
+Day 17 : study new topic
