@@ -17,3 +17,4 @@ Day 15: Practice
 Day 16 : finish topic
 Day 17 : study new topic
 Day 18 : Continue study topic
+Day 19: Continue study topic
