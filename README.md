@@ -23,3 +23,4 @@ Day 21: Continue study topic
 Day 22: Finish study topic
 Day 23 : Study new topic
 Day 24:Continue study new topic
+Day 25: Study new topic
