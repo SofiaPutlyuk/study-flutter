@@ -1,0 +1,50 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+*.iml
+*.log
+.metadata
+.pub/
+*.lock
+
+# Android
+/android/.gradle/
+/android/app/build/
+/android/gradle/
+/android/local.properties
+
+# iOS
+ios/Flutter/Flutter.podspec
+ios/Pods/
+/ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+
+# macOS
+macos/Flutter/Flutter.podspec
+macos/Pods/
+/macos/Flutter/Flutter.framework
+macos/Runner.xcworkspace/
+macos/.symlinks/
+
+# Linux
+linux/flutter/generated_plugin_registrant.*
+
+# Windows
+windows/flutter/generated_plugin_registrant.*
+windows/runner/Release/
+
+# Web
+web/.dart_tool/
+
+# Others
+*.class
+*.jar
+*.exe
+*.apk
+*.ap_
+*.keystore
