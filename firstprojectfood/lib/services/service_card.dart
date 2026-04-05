@@ -1,6 +1,6 @@
 import "dart:convert";
 import "package:http/http.dart" as http;
-import "package:flutter/foundation.dart";
+import "../models/model_cards.dart";
 Future<List<Category>> fetchRecipes() async {
   final url = Uri.parse(
     "https://www.themealdb.com/api/json/v1/1/categories.php",
