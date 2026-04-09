@@ -32,3 +32,4 @@ Day 29: Practice
 Day 30 : Practice
 Day 31: Practice
 Day 32: Almost finish practice
+Day 33: Study new chapter
