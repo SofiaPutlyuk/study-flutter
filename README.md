@@ -34,3 +34,4 @@ Day 31: Practice
 Day 32: Almost finish practice
 Day 33: Study new chapter
 Day 34: Continue study
+Day 35: Continue study
